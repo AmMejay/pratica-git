@@ -1,0 +1,3 @@
+git init - inicia um repertório git oculto no arquivo.
+git add - adiciona um arquivo novo por exemplo um "Arquivo.txt".
+git commit - adiciona comentários no arquivo.
